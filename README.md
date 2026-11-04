@@ -1,1 +1,1 @@
-一个我自己制作的火柴人格斗游戏。支持[网页](https://ztllpld.github.io/)、Windows应用和安卓应用游玩。游戏正在逐步更新新的内容。所有平台的游戏内容都会随着后台更新即时更新，因此不必更新各个平台的游戏，除非应用程序有变更。
+一个我自己制作的火柴人格斗游戏。支持[网页](https://ztllpld.github.io/)、[Windows应用](https://github.com/ZtlLpld/StickFighter/releases/download/v0.1.0/windows_x64_v0.1.0.zip)和[安卓应用](https://github.com/ZtlLpld/StickFighter/releases/download/v0.1.0/android_v0.1.0.zip)游玩。游戏正在逐步更新新的内容。所有平台的游戏内容都会随着后台更新即时更新，因此不必更新各个平台的游戏，除非应用程序有变更。
